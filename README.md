@@ -20,9 +20,8 @@ A modern, real-time compass application built with Flutter that utilizes device 
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/compass_north.png" width="250" alt="North"/><br><b>North Direction</b></td>
-    <td align="center"><img src="screenshots/compass_east.png" width="250" alt="East"/><br><b>East Direction</b></td>
-    <td align="center"><img src="screenshots/compass_south.png" width="250" alt="South"/><br><b>South Direction</b></td>
+    <td align="center"><img src="screenshots/sample1.png" width="250" alt="North"/><br><b>North Direction</b></td>
+
   </tr>
 </table>
 
